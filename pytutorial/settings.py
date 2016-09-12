@@ -134,16 +134,16 @@ SOCIALACCOUNT_EMAIL_REQUIRED = False
 SOCIALACCOUNT_EMAIL_VERIFICATION = "none"
 ACCOUNT_DEFAULT_HTTP_PROTOCOL = "http"
 
-DEMO_USERNAME = 'theRealAlbert'
-DEMO_PASSWORD = '1234'
+DEMO_USERNAME = 'trilleplay'
+DEMO_PASSWORD = 'famFarbest9'
 
 AUTH_PROFILE_MODULE = 'stream_twitter.UserProfile'
 
 # add your api keys from https://getstream.io/dashboard/
 # you do not need this if you are running on Heroku
 # and using getstream add-on
-STREAM_API_KEY = '1'
-STREAM_API_SECRET = '1'
+STREAM_API_KEY = 'n8w69q56xey2'
+STREAM_API_SECRET = '6egftd7ahzcv9q2fsk4wgjur3rs5qyabsc3dsn5hyf9a626d64sqwey4vmky7nyq'
 
 STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 
